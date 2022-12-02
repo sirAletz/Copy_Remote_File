@@ -1,4 +1,4 @@
-this is a program that copy a file in since sharefolder to local PC
+this is a program that copy a file in since share folder to local PC
 
 some files are ommited, privacy reasons
 
